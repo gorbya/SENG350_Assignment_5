@@ -1,0 +1,15 @@
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\bin\Debug\net6.0\Sweetness4Quickness.exe
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\bin\Debug\net6.0\Sweetness4Quickness.deps.json
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\bin\Debug\net6.0\Sweetness4Quickness.runtimeconfig.json
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\bin\Debug\net6.0\Sweetness4Quickness.dll
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\bin\Debug\net6.0\Sweetness4Quickness.pdb
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\obj\Debug\net6.0\Sweetness4Quickness.csproj.AssemblyReference.cache
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\obj\Debug\net6.0\Sweetness4Quickness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\obj\Debug\net6.0\Sweetness4Quickness.AssemblyInfoInputs.cache
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\obj\Debug\net6.0\Sweetness4Quickness.AssemblyInfo.cs
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\obj\Debug\net6.0\Sweetness4Quickness.csproj.CoreCompileInputs.cache
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\obj\Debug\net6.0\Sweetness4Quickness.dll
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\obj\Debug\net6.0\refint\Sweetness4Quickness.dll
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\obj\Debug\net6.0\Sweetness4Quickness.pdb
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\obj\Debug\net6.0\Sweetness4Quickness.genruntimeconfig.cache
+C:\Users\gorby\Documents\GitHub\SENG350_Assignment_5\SENG350_Assignment_5\Sweetness4Quickness\obj\Debug\net6.0\ref\Sweetness4Quickness.dll

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -9,34 +10,52 @@ namespace Sweetness4Quickness
     internal class RacingCar
         //This is the 'third party' code
     {
-        public int getTopSpeedRacingMode()
-        {
+        private int topSpeedRacingMode;
+        private int topSpeedNormalMode;
+        private string make;
+        private string model;
+        private string year;
+        private double carFuelCapacity;
 
+        public RacingCar(int topSpeedRacingMode, int topSpeedNormalMode, string make, string model, string year, double carFuelCapacity)
+        {
+            this.topSpeedRacingMode = topSpeedRacingMode;
+            this.topSpeedNormalMode = topSpeedNormalMode;
+            this.make = make;
+            this.model = model;
+            this.year = year;
+            this.carFuelCapacity = carFuelCapacity;
         }
 
-        public int getTopSpeedNormalMode()
-        {
 
+        public int GetTopSpeedRacingMode()
+        {
+            return topSpeedRacingMode;
         }
 
-        public string getMake()
+        public int GetTopSpeedNormalMode()
         {
-
+            return topSpeedNormalMode;
         }
 
-        public string getModel()
+        public string GetMake()
         {
-
+            return make;
         }
 
-        public string getYear()
+        public string GetModel()
         {
-
+            return model;
         }
 
-        public int getCarFuelCapacity()
+        public string GetYear()
         {
+            return year;
+        }
 
+        public double GetCarFuelCapacity()
+        {
+            return carFuelCapacity;
         }
     }
 }
